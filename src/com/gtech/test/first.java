@@ -7,6 +7,8 @@ public class first {
 		
 		
 		System.out.println("First program sucess");
+		
+		System.out.println("This is second program");
 	}
 
 }
